@@ -1,4 +1,1 @@
-|| I am Tether, a professional programmer 
-|| I am happy to help anyone with their code
-|| Contact me through my discord:- tether_3108
-Thank you
+|| I am Tether, contact me through discord:- tether_3108
